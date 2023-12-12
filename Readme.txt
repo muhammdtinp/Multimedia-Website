@@ -1,1 +1,1 @@
-credit: https://bootstrapmade.com/license/
+credit bootstrap: https://bootstrapmade.com/license/
